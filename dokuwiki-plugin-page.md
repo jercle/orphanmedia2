@@ -16,7 +16,7 @@ bugtracker : http://github.com/jercle/orphanmedia2/issues
 sourcerepo : http://github.com/jercle/orphanmedia2/
 ----
 
-Based on abandoned https://www.dokuwiki.org/plugin:orphanmedia
+Based on the abandoned [[https://www.dokuwiki.org/plugin:orphanmedia|OrphanMedia Plugin]]
 
 ===== Installation =====
 Search and install the plugin using the [[plugin:extension|Extension Manager]]. Refer to [[:Plugins]] on how to install plugins manually.
@@ -94,10 +94,6 @@ If  you have a real problem please tell me the root cause of your problem at:
 Feel free to add yours here:
   *
 
-===== Discussion =====
+===== Discussion and Bugs =====
 Please use only the DokuWiki Forum for discussion. To report an issue please refer to:
 [[http://github.com/jercle/orphanmedia2/issues|OrphanMedia2 Issues]]
-
-  * Little Bug-Report to :all Statement: http://forum.dokuwiki.org/post/23877  -> solved
-
-===== Bug Report =====
