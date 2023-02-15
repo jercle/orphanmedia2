@@ -2,6 +2,7 @@
 
 ---- plugin ----
 description: Display orphan and missing media files. Based on unmaintained orphanmedia plugin
+author     : jercle
 email      : ercolwell@gmail.com
 type       : syntax
 lastupdate : 2023-02-15
