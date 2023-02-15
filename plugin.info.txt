@@ -1,0 +1,7 @@
+base   orphanmedia2
+author Evan Colwell
+email  ercolwell@gmail.com
+date   2023-02-15
+name   orphanmedia2 plugin
+desc   Display orphan and missing media files. Based on unmaintained orphanmedia plugin
+url    http://dokuwiki.org/plugin:orphanmedia2
