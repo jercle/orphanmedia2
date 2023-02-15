@@ -9,7 +9,7 @@ lastupdate : 2023-02-15
 compatible : anteater, rincewind, angua, "Adora Belle", Elenor Of Tsort, Frusterick Manners, Greebo, Hogfather, Igor
 depends    :
 conflicts  :
-similar    : OrphansWanted,MultiOrphan
+similar    : OrphansWanted,MultiOrphan,orphanmedia
 tags       : orphan, maintenance, links, listing, search, missing
 
 downloadurl: http://github.com/jercle/orphanmedia2/zipball/master
